@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/sridharan-prof/problem/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/sridharan-prof/problem/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sridharan-prof/problem/tree/master/1146-greatest-common-divisor-of-strings) |
+| [2470-removing-stars-from-a-string](https://github.com/sridharan-prof/problem/tree/master/2470-removing-stars-from-a-string) |
 ## Array
 |  |
 | ------- |
@@ -42,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/sridharan-prof/problem/tree/master/0392-is-subsequence) |
+## Stack
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/sridharan-prof/problem/tree/master/2470-removing-stars-from-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/sridharan-prof/problem/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
