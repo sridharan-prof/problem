@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/sridharan-prof/problem/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/sridharan-prof/problem/tree/master/0412-fizz-buzz) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sridharan-prof/problem/tree/master/1146-greatest-common-divisor-of-strings) |
 ## String
@@ -60,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/sridharan-prof/problem/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/sridharan-prof/problem/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/sridharan-prof/problem/tree/master/2470-removing-stars-from-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/sridharan-prof/problem/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
