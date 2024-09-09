@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/sridharan-prof/problem/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/sridharan-prof/problem/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/sridharan-prof/problem/tree/master/0412-fizz-buzz) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sridharan-prof/problem/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -80,4 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/sridharan-prof/problem/tree/master/0349-intersection-of-two-arrays) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/sridharan-prof/problem/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/sridharan-prof/problem/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
