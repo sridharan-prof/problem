@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sridharan-prof/problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/sridharan-prof/problem/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/sridharan-prof/problem/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/sridharan-prof/problem/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/sridharan-prof/problem/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/sridharan-prof/problem/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
