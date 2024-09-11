@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sridharan-prof/problem/tree/master/0011-container-with-most-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sridharan-prof/problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/sridharan-prof/problem/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/sridharan-prof/problem/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/sridharan-prof/problem/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/sridharan-prof/problem/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/sridharan-prof/problem/tree/master/0334-increasing-triplet-subsequence) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/sridharan-prof/problem/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/sridharan-prof/problem/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/sridharan-prof/problem/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sridharan-prof/problem/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/sridharan-prof/problem/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sridharan-prof/problem/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sridharan-prof/problem/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/sridharan-prof/problem/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sridharan-prof/problem/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/sridharan-prof/problem/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sridharan-prof/problem/tree/master/0350-intersection-of-two-arrays-ii) |
