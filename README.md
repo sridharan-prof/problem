@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/sridharan-prof/problem/tree/master/0011-container-with-most-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sridharan-prof/problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/sridharan-prof/problem/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/sridharan-prof/problem/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/sridharan-prof/problem/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/sridharan-prof/problem/tree/master/0334-increasing-triplet-subsequence) |
@@ -83,12 +84,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sridharan-prof/problem/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/sridharan-prof/problem/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/sridharan-prof/problem/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sridharan-prof/problem/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sridharan-prof/problem/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/sridharan-prof/problem/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/sridharan-prof/problem/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sridharan-prof/problem/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -104,4 +107,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/sridharan-prof/problem/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/sridharan-prof/problem/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sridharan-prof/problem/tree/master/0342-power-of-four) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sridharan-prof/problem/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sridharan-prof/problem/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
