@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/sridharan-prof/problem/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/sridharan-prof/problem/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/sridharan-prof/problem/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sridharan-prof/problem/tree/master/0342-power-of-four) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/sridharan-prof/problem/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/sridharan-prof/problem/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/sridharan-prof/problem/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/sridharan-prof/problem/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/sridharan-prof/problem/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sridharan-prof/problem/tree/master/0345-reverse-vowels-of-a-string) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sridharan-prof/problem/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/sridharan-prof/problem/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/sridharan-prof/problem/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/sridharan-prof/problem/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sridharan-prof/problem/tree/master/0350-intersection-of-two-arrays-ii) |
