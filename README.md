@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/sridharan-prof/problem/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/sridharan-prof/problem/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/sridharan-prof/problem/tree/master/0415-add-strings) |
+| [0434-number-of-segments-in-a-string](https://github.com/sridharan-prof/problem/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/sridharan-prof/problem/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sridharan-prof/problem/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2470-removing-stars-from-a-string](https://github.com/sridharan-prof/problem/tree/master/2470-removing-stars-from-a-string) |
