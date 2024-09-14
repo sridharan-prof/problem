@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/sridharan-prof/problem/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/sridharan-prof/problem/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/sridharan-prof/problem/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/sridharan-prof/problem/tree/master/0415-add-strings) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sridharan-prof/problem/tree/master/1146-greatest-common-divisor-of-strings) |
 ## String
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/sridharan-prof/problem/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/sridharan-prof/problem/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/sridharan-prof/problem/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/sridharan-prof/problem/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/sridharan-prof/problem/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sridharan-prof/problem/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2470-removing-stars-from-a-string](https://github.com/sridharan-prof/problem/tree/master/2470-removing-stars-from-a-string) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/sridharan-prof/problem/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/sridharan-prof/problem/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/sridharan-prof/problem/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/sridharan-prof/problem/tree/master/2470-removing-stars-from-a-string) |
 ## Binary Search
