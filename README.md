@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/sridharan-prof/problem/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/sridharan-prof/problem/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/sridharan-prof/problem/tree/master/0415-add-strings) |
+| [0441-arranging-coins](https://github.com/sridharan-prof/problem/tree/master/0441-arranging-coins) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sridharan-prof/problem/tree/master/1146-greatest-common-divisor-of-strings) |
 ## String
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sridharan-prof/problem/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sridharan-prof/problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/sridharan-prof/problem/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/sridharan-prof/problem/tree/master/0441-arranging-coins) |
 ## Hash Table
 |  |
 | ------- |
