@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/sridharan-prof/problem/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/sridharan-prof/problem/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/sridharan-prof/problem/tree/master/0441-arranging-coins) |
+| [0504-base-7](https://github.com/sridharan-prof/problem/tree/master/0504-base-7) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sridharan-prof/problem/tree/master/1146-greatest-common-divisor-of-strings) |
 ## String
 |  |
