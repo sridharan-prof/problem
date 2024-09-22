@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/sridharan-prof/problem/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/sridharan-prof/problem/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/sridharan-prof/problem/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/sridharan-prof/problem/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sridharan-prof/problem/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/sridharan-prof/problem/tree/master/0367-valid-perfect-square) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sridharan-prof/problem/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sridharan-prof/problem/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/sridharan-prof/problem/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/sridharan-prof/problem/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sridharan-prof/problem/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/sridharan-prof/problem/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/sridharan-prof/problem/tree/master/0349-intersection-of-two-arrays) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/sridharan-prof/problem/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sridharan-prof/problem/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sridharan-prof/problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/sridharan-prof/problem/tree/master/0367-valid-perfect-square) |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sridharan-prof/problem/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sridharan-prof/problem/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/sridharan-prof/problem/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/sridharan-prof/problem/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sridharan-prof/problem/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sridharan-prof/problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sridharan-prof/problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -119,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sridharan-prof/problem/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sridharan-prof/problem/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sridharan-prof/problem/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/sridharan-prof/problem/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sridharan-prof/problem/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sridharan-prof/problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/sridharan-prof/problem/tree/master/0414-third-maximum-number) |
@@ -126,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/sridharan-prof/problem/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/sridharan-prof/problem/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/sridharan-prof/problem/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/sridharan-prof/problem/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/sridharan-prof/problem/tree/master/0461-hamming-distance) |
