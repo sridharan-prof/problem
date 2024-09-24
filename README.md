@@ -162,13 +162,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/sridharan-prof/problem/tree/master/0112-path-sum) |
 | [0463-island-perimeter](https://github.com/sridharan-prof/problem/tree/master/0463-island-perimeter) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/sridharan-prof/problem/tree/master/0112-path-sum) |
 | [0463-island-perimeter](https://github.com/sridharan-prof/problem/tree/master/0463-island-perimeter) |
 ## Matrix
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/sridharan-prof/problem/tree/master/0463-island-perimeter) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/sridharan-prof/problem/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/sridharan-prof/problem/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
