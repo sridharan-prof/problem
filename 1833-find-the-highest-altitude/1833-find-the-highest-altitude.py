@@ -4,9 +4,11 @@ class Solution(object):
         :type gain: List[int]
         :rtype: int
         """
-        max_altitude = 0
-        current_altitude = 0
-        for g in gain:
-            current_altitude += g
-            max_altitude = max(max_altitude, current_altitude)
-        return max_altitude
+        res = []
+        for i in range(len(gain)):
+            if i != 0:
+                gain[i] += gain[i-1]
+            if gain[i] > 0:
+                res.append(gain[i])
+        
+        return max(res) if res else 0
