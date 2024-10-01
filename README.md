@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/sridharan-prof/problem/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/sridharan-prof/problem/tree/master/0605-can-place-flowers) |
 | [0735-asteroid-collision](https://github.com/sridharan-prof/problem/tree/master/0735-asteroid-collision) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/sridharan-prof/problem/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/sridharan-prof/problem/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sridharan-prof/problem/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Greedy
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sridharan-prof/problem/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sridharan-prof/problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sridharan-prof/problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/sridharan-prof/problem/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sridharan-prof/problem/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sorting
 |  |
