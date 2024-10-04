@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/sridharan-prof/problem/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/sridharan-prof/problem/tree/master/0441-arranging-coins) |
 | [0504-base-7](https://github.com/sridharan-prof/problem/tree/master/0504-base-7) |
+| [1013-fibonacci-number](https://github.com/sridharan-prof/problem/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sridharan-prof/problem/tree/master/1146-greatest-common-divisor-of-strings) |
 ## String
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sridharan-prof/problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/sridharan-prof/problem/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/sridharan-prof/problem/tree/master/0392-is-subsequence) |
+| [1013-fibonacci-number](https://github.com/sridharan-prof/problem/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/sridharan-prof/problem/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/sridharan-prof/problem/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sridharan-prof/problem/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/sridharan-prof/problem/tree/master/1013-fibonacci-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -215,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/sridharan-prof/problem/tree/master/0374-guess-number-higher-or-lower) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/sridharan-prof/problem/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
