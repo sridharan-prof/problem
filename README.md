@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/sridharan-prof/problem/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/sridharan-prof/problem/tree/master/0145-binary-tree-postorder-traversal) |
 | [0735-asteroid-collision](https://github.com/sridharan-prof/problem/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/sridharan-prof/problem/tree/master/2470-removing-stars-from-a-string) |
 ## Simulation
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/sridharan-prof/problem/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sridharan-prof/problem/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/sridharan-prof/problem/tree/master/0145-binary-tree-postorder-traversal) |
 | [0463-island-perimeter](https://github.com/sridharan-prof/problem/tree/master/0463-island-perimeter) |
 ## Breadth-First Search
 |  |
@@ -208,11 +210,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/sridharan-prof/problem/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sridharan-prof/problem/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/sridharan-prof/problem/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/sridharan-prof/problem/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sridharan-prof/problem/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/sridharan-prof/problem/tree/master/0145-binary-tree-postorder-traversal) |
 ## Linked List
 |  |
 | ------- |
