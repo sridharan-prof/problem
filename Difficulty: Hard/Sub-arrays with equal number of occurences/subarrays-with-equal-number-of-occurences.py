@@ -14,7 +14,6 @@ class Solution:
                 diff -= 1
             if diff in preffix_count:
                 count += preffix_count[diff]
-            if diff in preffix_count:
                 preffix_count[diff] += 1
             else:
                 preffix_count[diff] = 1
