@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sridharan-prof/problem/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/sridharan-prof/problem/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/sridharan-prof/problem/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/sridharan-prof/problem/tree/master/0258-add-digits) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sridharan-prof/problem/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/sridharan-prof/problem/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/sridharan-prof/problem/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/sridharan-prof/problem/tree/master/0231-power-of-two) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sridharan-prof/problem/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/sridharan-prof/problem/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/sridharan-prof/problem/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/sridharan-prof/problem/tree/master/0206-reverse-linked-list) |
