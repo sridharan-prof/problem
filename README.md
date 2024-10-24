@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sridharan-prof/problem/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/sridharan-prof/problem/tree/master/0011-container-with-most-water) |
 | [0118-pascals-triangle](https://github.com/sridharan-prof/problem/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sridharan-prof/problem/tree/master/0119-pascals-triangle-ii) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sridharan-prof/problem/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sridharan-prof/problem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/sridharan-prof/problem/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/sridharan-prof/problem/tree/master/0169-majority-element) |
