@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/sridharan-prof/problem/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/sridharan-prof/problem/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/sridharan-prof/problem/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/sridharan-prof/problem/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/sridharan-prof/problem/tree/master/0735-asteroid-collision) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/sridharan-prof/problem/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/sridharan-prof/problem/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sridharan-prof/problem/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/sridharan-prof/problem/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/sridharan-prof/problem/tree/master/1833-find-the-highest-altitude) |
 ## Dynamic Programming
 |  |
