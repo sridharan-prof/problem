@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/sridharan-prof/problem/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/sridharan-prof/problem/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/sridharan-prof/problem/tree/master/0735-asteroid-collision) |
+| [1319-unique-number-of-occurrences](https://github.com/sridharan-prof/problem/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/sridharan-prof/problem/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/sridharan-prof/problem/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sridharan-prof/problem/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/sridharan-prof/problem/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/sridharan-prof/problem/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sridharan-prof/problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1319-unique-number-of-occurrences](https://github.com/sridharan-prof/problem/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/sridharan-prof/problem/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sridharan-prof/problem/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sorting
