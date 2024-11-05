@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/sridharan-prof/problem/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sridharan-prof/problem/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/sridharan-prof/problem/tree/master/1833-find-the-highest-altitude) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/sridharan-prof/problem/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Greedy
 |  |
 | ------- |
@@ -243,10 +244,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/sridharan-prof/problem/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/sridharan-prof/problem/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/sridharan-prof/problem/tree/master/0463-island-perimeter) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/sridharan-prof/problem/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Matrix
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/sridharan-prof/problem/tree/master/0463-island-perimeter) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/sridharan-prof/problem/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Tree
 |  |
 | ------- |
