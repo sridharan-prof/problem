@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/sridharan-prof/problem/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/sridharan-prof/problem/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/sridharan-prof/problem/tree/master/0735-asteroid-collision) |
+| [1046-max-consecutive-ones-iii](https://github.com/sridharan-prof/problem/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/sridharan-prof/problem/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/sridharan-prof/problem/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/sridharan-prof/problem/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sridharan-prof/problem/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/sridharan-prof/problem/tree/master/0724-find-pivot-index) |
+| [1046-max-consecutive-ones-iii](https://github.com/sridharan-prof/problem/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/sridharan-prof/problem/tree/master/1833-find-the-highest-altitude) |
 ## Dynamic Programming
 |  |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/sridharan-prof/problem/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/sridharan-prof/problem/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/sridharan-prof/problem/tree/master/0441-arranging-coins) |
+| [1046-max-consecutive-ones-iii](https://github.com/sridharan-prof/problem/tree/master/1046-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sridharan-prof/problem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/sridharan-prof/problem/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/sridharan-prof/problem/tree/master/0643-maximum-average-subarray-i) |
+| [1046-max-consecutive-ones-iii](https://github.com/sridharan-prof/problem/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sridharan-prof/problem/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## String Matching
 |  |
