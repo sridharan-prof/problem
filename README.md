@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/sridharan-prof/problem/tree/master/0680-valid-palindrome-ii) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sridharan-prof/problem/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sridharan-prof/problem/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1777-determine-if-two-strings-are-close](https://github.com/sridharan-prof/problem/tree/master/1777-determine-if-two-strings-are-close) |
 | [2470-removing-stars-from-a-string](https://github.com/sridharan-prof/problem/tree/master/2470-removing-stars-from-a-string) |
 ## Array
 |  |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sridharan-prof/problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/sridharan-prof/problem/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/sridharan-prof/problem/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1777-determine-if-two-strings-are-close](https://github.com/sridharan-prof/problem/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sridharan-prof/problem/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sorting
 |  |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/sridharan-prof/problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/sridharan-prof/problem/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/sridharan-prof/problem/tree/master/0455-assign-cookies) |
+| [1777-determine-if-two-strings-are-close](https://github.com/sridharan-prof/problem/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sridharan-prof/problem/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Bit Manipulation
 |  |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/sridharan-prof/problem/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/sridharan-prof/problem/tree/master/0383-ransom-note) |
+| [1777-determine-if-two-strings-are-close](https://github.com/sridharan-prof/problem/tree/master/1777-determine-if-two-strings-are-close) |
 ## Sliding Window
 |  |
 | ------- |
