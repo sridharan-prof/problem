@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sridharan-prof/problem/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sridharan-prof/problem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/sridharan-prof/problem/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/sridharan-prof/problem/tree/master/0031-next-permutation) |
 | [0118-pascals-triangle](https://github.com/sridharan-prof/problem/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sridharan-prof/problem/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sridharan-prof/problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sridharan-prof/problem/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/sridharan-prof/problem/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/sridharan-prof/problem/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/sridharan-prof/problem/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/sridharan-prof/problem/tree/master/0151-reverse-words-in-a-string) |
