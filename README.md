@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/sridharan-prof/problem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/sridharan-prof/problem/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/sridharan-prof/problem/tree/master/0031-next-permutation) |
+| [0045-jump-game-ii](https://github.com/sridharan-prof/problem/tree/master/0045-jump-game-ii) |
 | [0118-pascals-triangle](https://github.com/sridharan-prof/problem/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sridharan-prof/problem/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sridharan-prof/problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sridharan-prof/problem/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/sridharan-prof/problem/tree/master/0045-jump-game-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/sridharan-prof/problem/tree/master/0334-increasing-triplet-subsequence) |
 | [0409-longest-palindrome](https://github.com/sridharan-prof/problem/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/sridharan-prof/problem/tree/master/0455-assign-cookies) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/sridharan-prof/problem/tree/master/0045-jump-game-ii) |
 | [0118-pascals-triangle](https://github.com/sridharan-prof/problem/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sridharan-prof/problem/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sridharan-prof/problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
