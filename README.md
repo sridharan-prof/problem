@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sridharan-prof/problem/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/sridharan-prof/problem/tree/master/0031-next-permutation) |
 | [0045-jump-game-ii](https://github.com/sridharan-prof/problem/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/sridharan-prof/problem/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/sridharan-prof/problem/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sridharan-prof/problem/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sridharan-prof/problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/sridharan-prof/problem/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/sridharan-prof/problem/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/sridharan-prof/problem/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sridharan-prof/problem/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sridharan-prof/problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sridharan-prof/problem/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/sridharan-prof/problem/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/sridharan-prof/problem/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/sridharan-prof/problem/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/sridharan-prof/problem/tree/master/0191-number-of-1-bits) |
